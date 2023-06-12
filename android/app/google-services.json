@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529600336277",
+    "project_id": "checkemail-bb41d",
+    "storage_bucket": "checkemail-bb41d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529600336277:android:e721f9d38bbbfaffaea69c",
+        "android_client_info": {
+          "package_name": "com.example.pratice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWng0In2vkziM9odogES3raZNLh9GLXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
